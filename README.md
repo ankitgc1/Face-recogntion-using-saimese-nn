@@ -7,6 +7,10 @@ Siamese neural network(based on CNN) widely used for one-shot learning or few-sh
 
 ![alt text](https://github.com/ankitgc1/Face-recogntion-using-siamese-nn/blob/master/saimese_nn.jpeg)
 
+#### dependencies
+1. Keras
+2. opencv 
+3. numpy
 
 ### Model architecture 
 * CNN architecture
