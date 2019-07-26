@@ -15,4 +15,5 @@ Siamese neural network(based on CNN) widely used for one-shot learning or few-sh
 ![alt text](https://github.com/ankitgc1/Face-recogntion-using-siamese-nn/blob/master/parallel_model.png)
 
 *Lambda(parallel CNN's distance) 
+
  ![alt text](https://github.com/ankitgc1/Face-recogntion-using-siamese-nn/blob/master/lambda.png)
